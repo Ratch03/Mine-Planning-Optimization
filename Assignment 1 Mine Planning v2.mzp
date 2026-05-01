@@ -1,0 +1,23 @@
+{
+    "openFiles": [
+        "models/mineplan.mzn"
+    ],
+    "openTab": -1,
+    "projectFiles": [
+        "_mooc",
+        "data/mineplan0.dzn",
+        "data/mineplan01.dzn",
+        "data/mineplan02.dzn",
+        "data/mineplan03.dzn",
+        "data/mineplan04.dzn",
+        "data/mineplan05.dzn",
+        "data/mineplan06.dzn",
+        "data/mineplan07.dzn",
+        "data/mineplan08.dzn",
+        "models/mineplan.mzc",
+        "models/mineplan.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.chuffed.chuffed",
+    "selectedBuiltinConfigVersion": "0.13.2",
+    "version": 106
+}
